@@ -1,7 +1,7 @@
 # Рецепт: Картофель «Айдахо»
 [оригинал](https://eda.ru/recepty/osnovnye-blyuda/kartofel-ajdaho-30625)
 
-[Ингредиенты](ingredients.md)
+[Ингредиенты](ingredients)
 
 | Название        	| Количество    |
 | -------------   	|:-------------:|
